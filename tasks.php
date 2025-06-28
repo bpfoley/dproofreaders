@@ -274,7 +274,7 @@ const TASK_CLOSE_REASON = [
     2 => "Won't Fix",
     3 => "Won't Implement",
     4 => "Works for Me",
-    // max 8
+    // max 9
 ];
 const TASK_PERCENT_COMPLETE = [
     0 => "0%",
